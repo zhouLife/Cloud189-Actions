@@ -1,2 +1,4 @@
-- [![签到状态](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2025-03-16 18:40:58
+- [![签到状态](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2025-03-17 00:45:01
 - 开始执行帐号1
+- 登录成功
+- 已经签到过了，签到获得81M空间
