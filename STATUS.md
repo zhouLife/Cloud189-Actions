@@ -1,3 +1,3 @@
-- [![签到状态](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2025-11-25 18:46:43
+- [![签到状态](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/womade/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2025-11-26 00:50:41
 - 开始执行帐号1
 - 设备ID不存在，需要二次设备校验
