@@ -1,3 +1,3 @@
-- [![签到状态](https://github.com/zhouLife/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zhouLife/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2026-11-14 16:57:10
+- [![签到状态](https://github.com/zhouLife/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zhouLife/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2026-11-14 17:01:37
 - 开始执行帐号1
-- 没有找到href链接
+- 帐号1执行出错: 未能获取到登录页加密参数，可能触发了验证码或登录入口已变更
