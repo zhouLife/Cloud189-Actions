@@ -1,3 +1,3 @@
-- [![签到状态](https://github.com/zhouLife/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zhouLife/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2026-11-14 17:02:33
+- [![签到状态](https://github.com/zhouLife/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/zhouLife/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2026-11-14 17:04:39
 - 开始执行帐号1
-- 帐号1执行出错: 未能获取到登录页加密参数，可能触发了验证码或登录入口已变更
+- 帐号1执行出错: HTTPSConnectionPool(host='open.e.189.cn', port=443): Max retries exceeded with url: /api/logbox/config/encryptConf.do (Caused by NewConnectionError("HTTPSConnection(host='open.e.189.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
