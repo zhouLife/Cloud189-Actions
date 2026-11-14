@@ -20,13 +20,13 @@ jobs:
       TZ: Asia/Shanghai
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: 打印IP地址
         run: echo "My IP address is $(curl -s ifconfig.me)"
 
       - name: 安装 Python 3.10
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.10'
 
@@ -41,4 +41,4 @@ jobs:
           TYYP_PSW: ${{ secrets.CLOUD_PASSWORD }}
 
       - name: Git Auto Commit
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
